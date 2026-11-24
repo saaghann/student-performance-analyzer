@@ -85,4 +85,4 @@ This project demonstrates practical implementation of:
 
 ## Author
 
-MCA Student | Aspiring Data Scientist
+MCA Student 
