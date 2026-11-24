@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+
+# Generated student data and reports
+students.csv
+students.xlsx
+report.txt
